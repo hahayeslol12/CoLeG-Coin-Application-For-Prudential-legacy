@@ -5,5 +5,5 @@ a Application that helps you to count Your CoLeG Coins.
 # Version history
 - 1.0
 
-# how to download files
-- head over to CoLeG Coin's versions folder and select the version that you want to use use.
+# How to download files
+- Head over to CoLeG Coin's versions folder and select the version that you want to use.
