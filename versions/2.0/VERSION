@@ -1,9 +1,0 @@
-VERSION=2.0
-ADDED AND PATCH NOTES:
-
-Major:
-Login System
-
-Minor: 
-added back command
-Created so that the Login System's data has a custom text encoding so the data won't be easy to be stolen
