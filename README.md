@@ -1,4 +1,4 @@
-# CoLeG-Coin-Application-For-Prudential-legacy
+# Victual CoLeG Coin Counter
 
 a Application that helps you to count Your CoLeG Coins.
 
